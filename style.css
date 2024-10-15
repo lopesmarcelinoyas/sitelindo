@@ -7,7 +7,7 @@ header {
     width: 100%;
 }
 
-ul {
+.nav-lista {
     display: flex;
     list-style: none;
 color: #bb1b96ee;
@@ -16,4 +16,10 @@ color: #bb1b96ee;
  justify-content: center;
  align-items: center;
  gap: 28px;
+}
+
+.nav-item :hover {
+    cursor: pointer;
+    background-color: black;
+    color: aqua;
 }
