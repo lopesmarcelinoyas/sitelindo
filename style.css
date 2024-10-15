@@ -18,7 +18,7 @@ color: #bb1b96ee;
  gap: 28px;
 }
 
-.nav-item :hover {
+.nav-item:hover {
     cursor: pointer;
     background-color: black;
     color: aqua;
